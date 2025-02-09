@@ -1,5 +1,7 @@
 # Getting Started with Azure Document Intelligence Streamlit App
 
+https://github.com/user-attachments/assets/e8b1a6b8-01de-4ced-9762-e2df3e9bcd75
+
 This guide will help you set up and run the Azure Document Intelligence Streamlit app in your local environment.
 
 ## Prerequisites
